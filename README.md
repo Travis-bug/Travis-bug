@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Travis-bug i am a computer programming student at georgebrown college in my second year 
+** 👋 Hi, I’m @Travis-bug i am a**
+- 🎓computer programming student at georgebrown college in my second year 
 - 👀 I’m interested Learning new Programming Languages and developing my skills on my already known knowledge.
 - 🌱 I’m currently learning React and C# and advancing my skills in vanilla.
 - 💞️ I’m looking to collaborate on a Database project creating a large scale Database and building a site that pulls dsta from it.
