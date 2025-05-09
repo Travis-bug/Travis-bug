@@ -1,4 +1,10 @@
-## 👋 Hi, I’m @Travis-bug ##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Programming+student;Aims+to+study+robotics+at+UoT)](https://git.io/typing-svg)
+
+# 👋 Hi, I’m @Travis-bug #
+
+
+## About Me ##
 - 🎓A young computer programming student at georgebrown college in my second year 
 - 👀 I’m interested and very eager to learn from people with much more expirience than i have to build my skills and knowledge.
 - 🌱 I’m currently learning React and C# and advancing my skills in vanilla.
