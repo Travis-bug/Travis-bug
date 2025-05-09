@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Programming+student;Aims+to+study+robotics+at+UoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5019&pause=1000&color=4363F7&width=435&lines=Computer+Programming+student+;Aims+to+study+Robotics++at+UoT)](https://git.io/typing-svg)
+
 
 # 👋 Hi, I’m @Travis-bug #
 
