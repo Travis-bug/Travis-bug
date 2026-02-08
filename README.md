@@ -4,6 +4,8 @@
 
 # 👋 Hi, I’m @Travis-bug #
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.travis-bug/negex.svg)](https://central.sonatype.com/artifact/io.github.travis-bug/negex)
+
 
 ## About Me ##
 - 🎓A young computer programming student at georgebrown college in my second year 
