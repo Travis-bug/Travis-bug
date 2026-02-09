@@ -16,7 +16,7 @@
 - ⚡ Fun fact i learn from illustrations faster than wordings or written text 
 
 ---
-                                                            📩 Contact me at 
+###📩 Contact me at 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=traviseweka39%40gmail.com++;or+..........;travis.eweka%40georgebrown.ca+)](https://git.io/typing-svg)
 ---
 <!---
