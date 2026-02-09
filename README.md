@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4400&pause=1000&multiline=false&width=435&lines=Computer+Programming+Student+at+GBP;Aims+to+study+robotics+at+UoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&multiline=false&width=835&lines=Computer+Programming+Student+at+George+Brown+Polytechnic+.....;Aims+to+study+robotics+at+University+Of+Toronto🎓)](https://git.io/typing-svg)
 
 ```
 ██████████████████████████████████████████████████████████    ██╗  ██╗███████╗██╗     ██╗      ██████╗
