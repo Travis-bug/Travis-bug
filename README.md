@@ -38,12 +38,38 @@
 
 ---
 ## Skills 
-<div align="left">
-  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5-3.gif" alt="Snake Animation" width="30%" />
+<div align="center">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5-3.gif" alt="Snake Animation" width="25%" />
 </div>
 
+<div align="justify">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Snake Animation" width="9%" />
+</div>
+
+<div align="justify">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="Snake Animation" width="9%" />
+</div>
+
+<div align="justify">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="Snake Animation" width="9%" />
+</div>
+
+<div align="justify">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Snake Animation" width="9%" />
+</div
 
 
+<div align="left">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/c-sharp.gif" alt="c# gif" width="15%" />
+</div
+
+
+
+<div align="justify">
+  <img src="https://github.com/Travis-bug/Travis-bug/blob/main/java.gif" alt="Snake Animation" width="10%" />
+</div
+
+---
 # 📩 Contact me at 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=traviseweka39%40gmail.com++;or+..........;travis.eweka%40georgebrown.ca+)](https://git.io/typing-svg)
 
